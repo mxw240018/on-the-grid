@@ -1,5 +1,12 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
+	{
+	font-family: Arial;
+
+	}
